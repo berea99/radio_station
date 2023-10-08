@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - radio_player (0.0.1):
+    - Flutter
+  - volume_controller (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - radio_player (from `.symlinks/plugins/radio_player/ios`)
+  - volume_controller (from `.symlinks/plugins/volume_controller/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  radio_player:
+    :path: ".symlinks/plugins/radio_player/ios"
+  volume_controller:
+    :path: ".symlinks/plugins/volume_controller/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  radio_player: f23691d16aafc0c21dab0b3006ac29f05a22398f
+  volume_controller: 531ddf792994285c9b17f9d8a7e4dcdd29b3eae9
+
+PODFILE CHECKSUM: 36c730e89bd3ba39ad043aa9b0f5503fda476f19
+
+COCOAPODS: 1.13.0
