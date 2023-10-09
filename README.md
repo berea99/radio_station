@@ -4,8 +4,8 @@
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+<img src="assets/images/simulator_screenshot_1.png" width="300" alt="Captura de Pantalla 1"> | <img src="assets/images/simulator_screenshot_2.png" width="300" alt="Captura de Pantalla 2">
+
 
 ## Features
 
