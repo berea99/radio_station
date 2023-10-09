@@ -1,16 +1,16 @@
-# radio_station
+# RadioPlayer App
 
-A new Flutter project.
+![RadioPlayer App Demo](demo.gif)
 
-## Getting Started
+**RadioPlayer App** is a mobile application developed in Flutter that allows you to listen to the top 20 most clicked radio stations according to Radio Browser. Enjoy a variety of radio stations from around the world all in one place.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Play the top 20 most clicked radio stations.
+- Select a radio station and listen in real-time.
+- Intuitive and user-friendly interface.
