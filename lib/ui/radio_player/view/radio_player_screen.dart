@@ -158,7 +158,7 @@ class _RadioPlayerScreenState extends State<RadioPlayerScreen>
             ),
             AppSpacingVertical.medium,
             SizedBox(
-                height: 100,
+                height: MediaQuery.of(context).size.height / 8,
                 child: Lottie.asset('assets/lotties/sound.json',
                     controller: _lottieController, fit: BoxFit.cover)),
             Expanded(
