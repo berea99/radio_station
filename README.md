@@ -1,7 +1,5 @@
 # RadioPlayer App
 
-![RadioPlayer App Demo](demo.gif)
-
 **RadioPlayer App** is a mobile application developed in Flutter that allows you to listen to the top 20 most clicked radio stations according to Radio Browser. Enjoy a variety of radio stations from around the world all in one place.
 
 ## Screenshots
